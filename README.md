@@ -19,11 +19,11 @@ This repository contains a comprehensive business analysis of the **SuperStore S
 
 ## 🖼️ Dashboard & Report Preview
 
-![SuperStore Sales Dashboard](<Screenshot 2026-07-24 162136.png>)
+"C:\Users\mishr\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-07-24 165329.png"
 
 *Caption: Power BI Sales & Profit Overview Dashboard*
 
-![Regional & Category Analysis](<Screenshot 2026-07-24 162155.png>)
+
 
 *Caption: Category Revenue Breakdown & Regional Performance View*
 
