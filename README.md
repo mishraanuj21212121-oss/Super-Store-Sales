@@ -27,7 +27,7 @@ This repository contains a comprehensive business analysis of the **SuperStore S
 
 ## 🖼️ Dashboard Preview
 
-![Super Store Sales Dashboard](./Screenshot%202026-07-24%20165329.jpg)
+![Super Store Sales Dashboard](Screenshot%202026-07-24%20165329.jpg)
 
 *Caption: Power BI Super Store Sales Interactive Dashboard*
 
